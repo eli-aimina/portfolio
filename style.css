@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdfbfb;
+}
+
+#menu {
+    width: 30%;
+    float: right;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 3%;
+    font-weight: 50;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
